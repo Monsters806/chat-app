@@ -47,3 +47,4 @@ wtforms==3.1.2
 gunicorn
 gunicorn
 gunicorn
+eventlet==0.40.3
